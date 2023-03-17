@@ -22,7 +22,11 @@ This model takes the queue quantity and your desired floor as input where  queue
 
 ✅ Collected data of the time taken by each lift to reach each floor in different scenarios
 
-✅ Then processed the data to find average time taken by the lifts to reach each certain floors
+✅ We collected datas of each elevator going to all the different floors in different circumstances like when the lift has a long queue in the morning or people rushing in after the lunch hour .
+
+✅ Also took different readings for each elevator to complete one cycle in all different situations.
+
+✅ Then processed the data to find average time taken by the lifts to reach each certain floors and also the average time taken to complete one cycle .
 
 ✅ Along with the average timings of each lift we consider the queue size in front of each elevator and average capacity of a lift to calculate which elevator is the     most efficient to reach a certain floor. 
 
@@ -67,7 +71,9 @@ To run the project, follow these steps:
 
 ✅ Open a terminal and navigate to the project directory.
 
-✅ Run the elevator_count.ipynb Jupyter notebook count the number of people standing in the queue in front of the elevator then run elevator_calculation to  find the most efficient elevator that will take the least time to reach the perticular floor .
+✅ Run the elevator_count.ipynb Jupyter notebook count the number of people standing in the queue in front of the elevator .
+
+✅ Now run elevator_calculation to  find the most efficient elevator that will take the least time to reach the perticular floor .
 
 
 # Usage <img src="https://user-images.githubusercontent.com/72274851/222215440-158ffdc1-8a23-4c7f-81c2-44e864d6d043.png" width="60" height="60"> 
