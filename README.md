@@ -22,10 +22,15 @@ This model takes the queue quantity and your desired floor as input where  queue
 
 
 ✅ Collected data of the time taken by each lift to reach each floor in different scenarios
+
 ✅ Then processed the data to find average time taken by the lifts to reach each certain floors
+
 ✅ Along with the average timings of each lift we consider the queue size in front of each elevator and average capacity of a lift to calculate which elevator is the     most efficient to reach a certain floor. 
+
 ✅ The model takes the queue quantity in front of each elevator and the destination floor as the input and provides the elevator option to take, which is calculated       based on the above formulae.
+
 ✅ We have used queue image processing to take the count of people in the queue.
+
 ✅ Train and Test the model using intel oneAPI
 
 
@@ -45,10 +50,13 @@ To run the project, follow these steps:
 
 To run the project, follow these steps:
 
- ✅ Clone this repository to your local machine.
- ✅ Install the dependencies listed above.
- ✅ Open a terminal and navigate to the project directory.
- ✅ Run the Chronic_Kidney_Disease.ipynb Jupyter notebook to train and evaluate the machine learning model.
+✅ Clone this repository to your local machine.
+
+✅ Install the dependencies listed above.
+
+✅ Open a terminal and navigate to the project directory.
+
+✅ Run the Chronic_Kidney_Disease.ipynb Jupyter notebook to train and evaluate the machine learning model.
 
 
 # Usage <img src="https://user-images.githubusercontent.com/72274851/222215440-158ffdc1-8a23-4c7f-81c2-44e864d6d043.png" width="60" height="60"> 
