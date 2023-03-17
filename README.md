@@ -19,35 +19,38 @@ This model takes the queue quantity and your desired floor as input where  queue
 # How we made it <img src="https://user-images.githubusercontent.com/72274851/222215141-6ced575e-414b-4088-bd99-d78921f80f66.png" width="60" height="60"> 
 
 
-Collected data of the time taken by each lift to reach each floor in different scenarios
-Then processed the data to find average time taken by the lifts to reach each certain floors
-Along with the average timings of each lift we consider the queue size in front of each elevator and average capacity of a lift to calculate which elevator is the most efficient to reach a certain floor. 
-The model takes the queue quantity in front of each elevator and the destination floor as the input and provides the elevator option to take, which is calculated based on the above formulae.
-We have used queue image processing to take the count of people in the queue.
-Train and Test the model using intel oneAPI
+✅ Collected data of the time taken by each lift to reach each floor in different scenarios
+✅ Then processed the data to find average time taken by the lifts to reach each certain floors
+✅ Along with the average timings of each lift we consider the queue size in front of each elevator and average capacity of a lift to calculate which elevator is the     most efficient to reach a certain floor. 
+✅ The model takes the queue quantity in front of each elevator and the destination floor as the input and provides the elevator option to take, which is calculated       based on the above formulae.
+✅ We have used queue image processing to take the count of people in the queue.
+✅ Train and Test the model using intel oneAPI
 
 
-DEPENDENCIES
+## Dependencies <img src="https://user-images.githubusercontent.com/72274851/222215296-64d3a566-02c2-4ff9-9b8f-9ec5096f5799.png" width="60" height="60"> 
 
 
 This project requires the following dependencies:
 
-Python 3.7 or higher
+✅ Python 3.7 or higher
 
-Pandas
+✅ Pandas
 
 
 HOW TO INSTALL AND RUN THE PROJECT
+# How to Install and Run the Project <img src="https://user-images.githubusercontent.com/72274851/222215440-158ffdc1-8a23-4c7f-81c2-44e864d6d043.png" width="60" height="60"> 
+To run the project, follow these steps:
 
 To run the project, follow these steps:
 
- Clone this repository to your local machine.
- Install the dependencies listed above.
- Open a terminal and navigate to the project directory.
- Run the Chronic_Kidney_Disease.ipynb Jupyter notebook to train and evaluate the machine learning model.
+ ✅ Clone this repository to your local machine.
+ ✅ Install the dependencies listed above.
+ ✅ Open a terminal and navigate to the project directory.
+ ✅ Run the Chronic_Kidney_Disease.ipynb Jupyter notebook to train and evaluate the machine learning model.
 
 
-HOW TO USE THE PROJECT
+# Usage <img src="https://user-images.githubusercontent.com/72274851/222215440-158ffdc1-8a23-4c7f-81c2-44e864d6d043.png" width="60" height="60"> 
+To run the project, follow these steps:
 
 The user has to enter the floor he/she has to reach and it will show the most efficient lift and least time taking lift to reach that floor .
 
