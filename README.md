@@ -62,6 +62,7 @@ To run the project, follow these steps:
 To run the project, follow these steps:
 
 The user has to enter the floor he/she has to reach and it will show the most efficient lift and least time taking lift to reach that floor .
+Please Note:Sometimes there can be an error while using jupyter notebook therefore a file named "Run.py" is attached so that the project can be executed through the same.
 
 
 
