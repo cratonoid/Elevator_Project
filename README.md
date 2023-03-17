@@ -1,14 +1,10 @@
 # Elevator_Project
 
-PROJECT TITLE
-
-
-
-# Inspiration <img src="https://user-images.githubusercontent.com/72274851/222214323-923a3fe7-56e9-4ba0-abff-162681500702.png" width="60" height="60"> 
-
+#PROJECT TITLE
 
 Analysis of the most efficient elevator in Christ at the peak hours .
 
+# Inspiration <img src="https://user-images.githubusercontent.com/72274851/222214323-923a3fe7-56e9-4ba0-abff-162681500702.png" width="60" height="60">
 
 INSPIRATION
 
