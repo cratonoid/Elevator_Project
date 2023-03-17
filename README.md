@@ -42,6 +42,18 @@ This project requires the following dependencies:
 
 ✅ Pandas
 
+✅ Cetroidtracker.py
+
+✅ Config.py
+
+✅ Mailer.py
+
+✅ Thread.py
+
+✅Trackableobject.py
+
+
+
 
 HOW TO INSTALL AND RUN THE PROJECT
 # How to Install and Run the Project <img src="https://user-images.githubusercontent.com/72274851/222215440-158ffdc1-8a23-4c7f-81c2-44e864d6d043.png" width="60" height="60"> 
@@ -55,7 +67,7 @@ To run the project, follow these steps:
 
 ✅ Open a terminal and navigate to the project directory.
 
-✅ Run the Chronic_Kidney_Disease.ipynb Jupyter notebook to train and evaluate the machine learning model.
+✅ Run the elevator_count.ipynb Jupyter notebook count the number of people standing in the queue in front of the elevator then run elevator_calculation to  find the most efficient elevator that will take the least time to reach the perticular floor .
 
 
 # Usage <img src="https://user-images.githubusercontent.com/72274851/222215440-158ffdc1-8a23-4c7f-81c2-44e864d6d043.png" width="60" height="60"> 
