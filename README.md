@@ -2,7 +2,7 @@
 
 ![image](https://images.unsplash.com/photo-1624342057927-64d60f69b94d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80)
 
-# Project Title  
+# Project Title <img src="https://cdn-icons-png.flaticon.com/512/2800/2800015.png" width="60" height="60">
 
 
 Analysis of the most efficient elevator in Christ at the peak hours .
