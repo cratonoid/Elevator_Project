@@ -27,7 +27,7 @@ This model takes the queue quantity and your desired floor as input where  queue
 ✅ Train and Test the model using intel oneAPI
 
 
-## Dependencies <img src="https://user-images.githubusercontent.com/72274851/222215296-64d3a566-02c2-4ff9-9b8f-9ec5096f5799.png" width="60" height="60"> 
+# Dependencies <img src="https://user-images.githubusercontent.com/72274851/222215296-64d3a566-02c2-4ff9-9b8f-9ec5096f5799.png" width="60" height="60"> 
 
 
 This project requires the following dependencies:
