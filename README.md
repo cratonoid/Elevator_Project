@@ -59,7 +59,7 @@ This project requires the following dependencies:
 
 
 
-HOW TO INSTALL AND RUN THE PROJECT
+
 # How to Install and Run the Project <img src="https://user-images.githubusercontent.com/72274851/222215440-158ffdc1-8a23-4c7f-81c2-44e864d6d043.png" width="60" height="60"> 
 To run the project, follow these steps:
 
