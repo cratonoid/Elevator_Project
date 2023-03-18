@@ -53,7 +53,7 @@ This model takes the queue quantity and your desired floor as input where  queue
 🤺 Every time the data was recorded when the elevator started from its designated starting floor.
 
 
-# Logical Implementation <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Flogic-bombs&psig=AOvVaw3WCim-EUSKkLPDzGZWgs-1&ust=1679200415918000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiOpJTT5P0CFQAAAAAdAAAAABAE" width="60" height="60"> 
+# Logical Implementation <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Flogic-bombs&psig=AOvVaw3WCim-EUSKkLPDzGZWgs-1&ust=1679200415918000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiOpJTT5P0CFQAAAAAdAAAAABAE](https://repository-images.githubusercontent.com/273951747/c2380780-b3f6-11ea-99c3-21c2dcc9ba2c" width="60" height="60"> 
 
 🔧 Number of people standing in queue in front of each elevator is taken as first set of input and then the target floor is used as second input.
 
